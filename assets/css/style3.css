@@ -1,0 +1,104 @@
+
+/* content */
+.next-content {
+    padding: 65px 0;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f3f3f3;
+    font-weight: 400;
+    color: #535252;
+    margin-top: 30px;
+}
+/*Delivering-Best  */
+.Delivering-Best {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.Delivering-Best-img >img{
+    width: 100%;
+}
+.more-category {
+    /* text-align:end; */
+}
+.more-category >a {
+    border: 1px solid #d5d5d5;
+    padding: 10px 15px;
+    line-height: 35px;
+    color: #333;
+    border-radius: 100px;
+    background-color: #ededed;
+}
+.more-category >a:hover {
+    background-color: #000;
+    color: white !important;
+}
+.Delivering-Best-text >h6 {
+    font-size: 22px;
+    padding-bottom: 10px;
+}
+.Delivering-Best-text >p {
+    font-size: 14px;
+    font-weight: 400;
+    color: #868282;
+    padding-bottom: 40px;
+}
+.Delivering-Best-ship_content >i {
+    font-size: 38px;
+    color: #959393;
+}
+.Delivering-Best-ship_content >h5 {
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+/* logo-motor */
+.logo-motor {
+    padding-top:40px;
+}
+.logo-motor_img  {
+    padding-top: 50px;
+}
+.logo-motor_img >img {
+    width: 100%;
+}
+.logo-motor_img {
+    width: 200px;
+}
+/*  */
+#back-to-top {
+    position:fixed;
+    right: 20px;
+    display: none ;
+    bottom:100px;
+    width: 40px;
+    height:40px;
+    border-radius: 50%;
+    background-color:black;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    z-index: 100000000;
+    cursor: pointer;
+    color: white;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
